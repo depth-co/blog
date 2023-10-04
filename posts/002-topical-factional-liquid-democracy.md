@@ -1,0 +1,7 @@
+# Topical Factional Liquid Democracy
+
+Summary:
+- model after coalitions in parliaments
+- give people control over all aspects while also retaining ability to delegate. Nobody has time to vote on everything but should be able to if they wanted to
+- first past the post leads to known problems. Instead we want to allow people to percent vote on various options, and in the end not elect individuals but rather policies
+- the problem with parties is that parties end up holding a group of incoherent views; ie democractic party is anti-cryptocurrency, anti-nuclear, pro immigration, pro welfare state, anti balanced budget. I'm pro nuclear, pro crypto, pro immigration, pro welfare state, pro balanced budget. By voting for Democrats I have to put up with the things I dislike to get the things I like. This leads to parties influencing the poltics of the masses rather than the other way around as it should be. Instead, votes should be topical. I can vote on different policies / factions based on the topic. For example 50% nuclear party, 50% green party for energy infra redevelopment, 80% forward party 10% libertarian party 10% democratic party on crypto issues, 100% progressive caucus for drug price negotiation, etc. The nice thing about topics is you can break each problem space into topics in a fan out manner all the way down to the microscopic decisions. Thus we gain full auditability over the entire decision making process. No longer will government resemble a "swamp" or "deep state" which spends or decides in ways that are incomprehensible or unaccountable.
