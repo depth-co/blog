@@ -1,5 +1,11 @@
 # Topical Factional Liquid Democracy
 
+DEPTH seeks to be a global direct democracy. If we can achieve this, and seed the democracy with the right cohort of aligned starting members, I believe it will be possible to grow DEPTH
+into the size I envision. Some properties must be present in order for this to work though
+- Transparency is key. The outcomes of votes should be provably auditable by anyone in the world while also ensuring individuals' privacy
+- 
+- 
+
 Summary:
 - model after coalitions in parliaments
 - give people control over all aspects while also retaining ability to delegate. Nobody has time to vote on everything but should be able to if they wanted to
