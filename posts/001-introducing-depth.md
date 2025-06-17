@@ -1,9 +1,9 @@
 # Introducing DEPTH
 
 In 2023, the challenges facing humanity require effective organization on a mass scale. Solutions to these problems require us to come together as a species, 
-to find common solutions, to allow the goal of solving these most pressing challenges to supercede individuals' desires for power.
+to find common solutions, to allow the goal of solving these most pressing challenges to supersede individuals' desires for power.
 
-DEPTH seeks to solve problems such as Global Warming, wealth inequality, disease, violence, unnecessarily slow scientific progress, AI alignment, unecessarily turbulent economic boom and bust cycles, 
+DEPTH seeks to solve problems such as Global Warming, wealth inequality, disease, violence, unnecessarily slow scientific progress, AI alignment, unnecessarily turbulent economic boom and bust cycles, 
 structural prejudice, and corruption. DEPTH will solve these problems by establishing a new internet-based global direct democracy equipped with a built-in wealth tax and universal basic income for all its citizens,
 with the eventual goal that DEPTH would someday provide a UBI and direct democracy to every human alive. To get there, DEPTH will function as a country with its own economy, producing every good and service that
 exists today, selling these to global customers who share common cause. DEPTH will use the revenue and 10x its population each year until all are DEPTH citizens if they want to be and DEPTH's currency becomes
@@ -16,12 +16,12 @@ DEPTH stands for Democracy, Environmentalism, Pacifism, Transhumanism, Humanism.
 DEPTH is, specifically, a type of Network State: a society in which individuals vote and transact and form binding contracts on the blockchain. 
 We'll get into why a blockchain is necessary later.
 
-It should be apparent to many that today's systems are inadequte for tackling the problems humanity faces. If you're like me, you know deep in your soul that in an age where all the world's
+It should be apparent to many that today's systems are inadequate for tackling the problems humanity faces. If you're like me, you know deep in your soul that in an age where all the world's
 history and knowledge lies at our fingertips, where we can communicate and opine to anyone across the globe at the speed of light, in an age where we have the most educated
 aggregate population in history hyper aware of the injustices and suffering each other faces, that we should be able to **quickly** solve global warming, corruption, and disease. 
-And yet, what we observe corporations and governments colluding in obscurity to siphone the wealth of the globe for the benefit a wealthy few rather than the people they are supposed to serve, 
-allowing any concern to the environment or the suffering of our peers and families go unadressed if there's no welath to be extracted. 
-You and I both know a better way exists. I personally belive DEPTH is a concretization, a practical praxis, of one such better way. I call on you to join me in actualizing it.
+And yet, what we observe corporations and governments colluding in obscurity to siphon the wealth of the globe for the benefit a wealthy few rather than the people they are supposed to serve, 
+allowing any concern to the environment or the suffering of our peers and families go unaddressed if there's no wealth to be extracted. 
+You and I both know a better way exists. I personally believe DEPTH is a concretization, a practical praxis, of one such better way. I call on you to join me in actualizing it.
 
 DEPTH will be formed as a multinational C Corporation for legal status, but internally, it will function as a democracy and nation-state economy. Not as a democratic republic such as the USA or a 
 totalitarian state disguised as a democracy like China, but instead a true democracy where each individual's vote is equivalent on all matters regardless of wealth or status.
@@ -31,7 +31,7 @@ should focus on (do one thing well), then excess profits are sent away from the 
 DEPTH will not be run this way. DEPTH, as a society with a corporation just as an outer shell, will expand into all product and service categories. Every food, every software service,
 every electronic component, every health product could in theory have a DEPTH alternative, meaning DEPTH could grow to an infinite size and over time replace large chunks of existing nations' economies. Imagine airplanes which are safe. Imagine journalism which is accurate and audited by the people.
 Because DEPTH will be controlled democratically with the explicit goal of expansion over dividends, DEPTH can outcompete investor lead alternatives in each market.
-Because DEPTH will be controlled democratically with the explicit goal of offering an ethical product, the businesses within DEPTH will be goverend such that their negative externalities are curtailed, 
+Because DEPTH will be controlled democratically with the explicit goal of offering an ethical product, the businesses within DEPTH will be governed such that their negative externalities are curtailed, 
 that they remain transparent (every decision and financial transaction is auditable on-chain), that overall they lead towards a more whole and just world as voted on by DEPTH citizens.
 As an example, imagine DEPTH-based military defense products which protect lives without ever killing anyone sold to only the most ethical world actors to uphold international humanitarian law.
 
@@ -40,7 +40,7 @@ will be exchanged internally as the nation's currency, and whenever a DEPTH-base
 open market. This would drive DEPTH to become a suction for talent and investment on our terms.
 Because DEPTH is based on the blockchain, all assets of DEPTH citizens are tracked as cryptocurrencies and NFTs. There can be an automated system whereby a portion of 
 every citizen's assets are granted to the DEPTH treasury periodically (the world's first automated and accurate wealth tax), and then 
-redistributed euqally to each citizen as a truly valuable universal basic income. Citizens may start entities outside of DEPTH, but pledge some percent of profits to DEPTH such that they can remain a citizen. 
+redistributed equally to each citizen as a truly valuable universal basic income. Citizens may start entities outside of DEPTH, but pledge some percent of profits to DEPTH such that they can remain a citizen. 
 DEPTH citizens would enjoy privileges in addition to 1 person 1 vote. For one they'd take part in history as DEPTH fixes the
 world's major problems. In addition, there would be an internal cap on profit margins for products and services sold internally, and a means by which profits
 from the areas you vote towards funding are returned to you; this system thus
